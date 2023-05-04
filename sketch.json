@@ -1,0 +1,22 @@
+{
+  "cpu": {
+    "fqbn": "esp32:esp32:wt32-eth01:PartitionScheme=default,FlashMode=qio,FlashFreq=80,UploadSpeed=460800,DebugLevel=none,EraseFlash=none",
+    "name": "MH ET LIVE ESP32DevKIT",
+    "type": "serial"
+  },
+  "secrets": [
+    {
+      "name": "SECRET_DEVICE_KEY",
+      "value": ""
+    },
+    {
+      "name": "SECRET_OPTIONAL_PASS",
+      "value": ""
+    },
+    {
+      "name": "SECRET_SSID",
+      "value": ""
+    }
+  ],
+  "included_libs": []
+}
